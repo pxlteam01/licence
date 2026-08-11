@@ -1,1 +1,62 @@
-{}
+{
+  "SCARY-LVGG-ASN9-IOGD-DLYZ": {
+    "key": "SCARY-LVGG-ASN9-IOGD-DLYZ",
+    "created_date": "2026-08-11T07:00:21.584Z",
+    "expired_date": "2026-08-12T07:00:21.583Z",
+    "expired_days": 1,
+    "used": false,
+    "hwid": null,
+    "used_date": null,
+    "is_vip": false,
+    "note": "Mass Licence #1",
+    "created_by": "telegram_bot_mass"
+  },
+  "SCARY-6LZY-0G8I-WGCK-A674": {
+    "key": "SCARY-6LZY-0G8I-WGCK-A674",
+    "created_date": "2026-08-11T07:00:21.584Z",
+    "expired_date": "2026-08-12T07:00:21.584Z",
+    "expired_days": 1,
+    "used": false,
+    "hwid": null,
+    "used_date": null,
+    "is_vip": false,
+    "note": "Mass Licence #2",
+    "created_by": "telegram_bot_mass"
+  },
+  "SCARY-41JX-KR5U-97MJ-C7VQ": {
+    "key": "SCARY-41JX-KR5U-97MJ-C7VQ",
+    "created_date": "2026-08-11T07:00:21.584Z",
+    "expired_date": "2026-08-12T07:00:21.584Z",
+    "expired_days": 1,
+    "used": false,
+    "hwid": null,
+    "used_date": null,
+    "is_vip": false,
+    "note": "Mass Licence #3",
+    "created_by": "telegram_bot_mass"
+  },
+  "SCARY-3XFG-Z8UF-1KLL-Y7VY": {
+    "key": "SCARY-3XFG-Z8UF-1KLL-Y7VY",
+    "created_date": "2026-08-11T07:00:21.584Z",
+    "expired_date": "2026-08-12T07:00:21.584Z",
+    "expired_days": 1,
+    "used": false,
+    "hwid": null,
+    "used_date": null,
+    "is_vip": false,
+    "note": "Mass Licence #4",
+    "created_by": "telegram_bot_mass"
+  },
+  "SCARY-63UB-GVNU-S7JE-4WJD": {
+    "key": "SCARY-63UB-GVNU-S7JE-4WJD",
+    "created_date": "2026-08-11T07:00:21.584Z",
+    "expired_date": "2026-08-12T07:00:21.584Z",
+    "expired_days": 1,
+    "used": false,
+    "hwid": null,
+    "used_date": null,
+    "is_vip": false,
+    "note": "Mass Licence #5",
+    "created_by": "telegram_bot_mass"
+  }
+}
